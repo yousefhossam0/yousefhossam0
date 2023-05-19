@@ -17,7 +17,7 @@ Welcome to my Github page! I am Yousef and I am currently Junior CS student at S
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Exercising 3 days a week
-- Finishing E-learning website [OnePyOne](https://github.com/Hamed-bavaria/WDT) 🚀 coming soon
+- Finishing E-learning website [OnePyOne](https://github.com/Hamed-bavaria/WDT/tree/main) 🚀 coming soon
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
