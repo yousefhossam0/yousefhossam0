@@ -22,7 +22,7 @@ Welcome to my Github page! I am Yousef and I am currently Junior CS student at S
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yousefhossam0&show_icons=true&hide_border=true] />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yousefhossam0&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
