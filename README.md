@@ -11,7 +11,7 @@ Welcome to my Github page! I am Yousef and I am currently Junior CS student at S
 
 
 #### 🌱 Things I am currently working on:   
-- Taking online courses about Data Science and Big Data
+- Taking online courses about Cyber Security
 - Doing Web Projects Using [HTML & CSS & JS & PHP] 
 
 #### :muscle: Things I am challenging myself with:
