@@ -15,8 +15,6 @@ Welcome to my Github page! I am Yousef and I am currently Senior CS student at S
 - Doing Web Projects Using [HTML & CSS & JS & PHP] 
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Exercising 3 days a week
 - Finishing E-learning website [OnePyOne](https://github.com/Hamed-bavaria/WDT/tree/main) 🚀 coming soon
 - Finishing Anti-Virus Application [Cypher](https://github.com/yousefhossam0/Cypher) 🕵️ coming soon
 - Improving my CV with some education apart from university
