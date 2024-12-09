@@ -5,19 +5,17 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssefhossam02/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yousefhossam02@gmail.com)
 
-Welcome to my Github page! I am Yousef and I am currently Senior CS student at Sinai university  
+Welcome to my Github page! I am Yousef and I am currently Soc analyst   
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on:   
-- Taking online courses about Cyber Security
+- Cyber Security instructor 
 - Doing Web Projects Using [HTML & CSS & JS & PHP] 
 
 #### :muscle: Things I am challenging myself with:
-- Finishing E-learning website [OnePyOne](https://github.com/Hamed-bavaria/WDT/tree/main) 🚀 coming soon
 - Finishing Anti-Virus Application [Cypher](https://github.com/yousefhossam0/Cypher) 🕵️ coming soon
-- Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
 <p>
